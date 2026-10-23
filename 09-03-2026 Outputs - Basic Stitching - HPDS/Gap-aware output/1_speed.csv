@@ -1,0 +1,2 @@
+transition,frame_a,frame_b,raw_dx,n_frames,corrected_step,gap_filled,gap_warning,included_in_panorama,pair_status
+0,20,21,134.77,1,134.77,0,0,1,train-present
